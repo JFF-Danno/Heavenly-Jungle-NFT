@@ -15,7 +15,7 @@ TODO
 A UI implementation with required validation and error handling.
 UI steps for options like setting price,auction style,gallery inclusion. Looking at the Zora.co create process as my template what's needed.
 
-##########################################################################################################################################
+#################################################################################################################
 
 >>>>>  Accounts,Wallets and Galleries
    
@@ -24,8 +24,7 @@ Need to work out an appropriate data structure between saving data in moralis an
 Planning to use moralis.io for data needed for displaying galleries and user account info.
 Need to look at signing in with metamask like on zora.co
 
-##########################################################################################################################################
-
+#################################################################################################################
 >>>>>  DAO aspects and smart contract
 
 This is what I'm currently investigating in order to have a chat with Audsssy so we can decide what's needed here.
